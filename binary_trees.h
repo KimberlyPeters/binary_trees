@@ -65,7 +65,7 @@ int binary_tree_is_perfect_recursive(
     size_t level
 );
 binary_tree_t *binary_tree_sibling(binary_tree_t *node);
-
+binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
 
 
